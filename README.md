@@ -1,2 +1,2 @@
 # invie-github
-practica estudio git -- página de guitarras --
+practica estudio git en github -- página de guitarras --
