@@ -1,0 +1,97 @@
+commit c450d5be7ed3cc4f2e308ff2c0b594a20de173d1
+Merge: 14c648b e74f988
+Author: Mauro <mauro@woppy.co>
+Date:   Thu Jul 26 23:06:28 2018 -0500
+
+    Merge branch 'responsive'
+
+commit e74f9885f33002fe7c33644838c600f06fac073a
+Author: Mauro <mauro@woppy.co>
+Date:   Thu Jul 26 23:05:37 2018 -0500
+
+    cambio 4 responsive
+
+commit 14c648bc2353027dbd11d91356b6b3311a2e26dc
+Author: Mauro <mauro@woppy.co>
+Date:   Thu Jul 26 22:56:23 2018 -0500
+
+    Arreglando el problema 2
+
+commit 3f91d2ef7d2fcf19a7f1562a474e75debfa7cafb
+Author: Mauro <mauro@woppy.co>
+Date:   Thu Jul 26 22:57:10 2018 -0500
+
+    cambio 3
+
+commit e6f2806daadee79935a7d2184d9aefbd2d988091
+Author: Mauro <mauro@woppy.co>
+Date:   Thu Jul 26 22:56:23 2018 -0500
+
+    Arreglando el problema 2
+
+commit e377ee2b75bcaa8532b119272bcf1ffb7f40bd68
+Author: Mauro <mauro@woppy.co>
+Date:   Thu Jul 26 22:54:17 2018 -0500
+
+    cambio 2
+
+commit ba294cf5db62a7d78b824dfa3109608c3f59642d
+Author: Mauro <mauro@woppy.co>
+Date:   Thu Jul 26 22:53:53 2018 -0500
+
+    cambio 1
+
+commit c0fe9cc1b49a5e2eec192094c6bd9ce5600028cb
+Merge: 2c54f7b 167f97b
+Author: Mauro <mauro@woppy.co>
+Date:   Thu Jul 26 21:53:17 2018 -0500
+
+    Merge branch 'nueva-imagen'
+
+commit 2c54f7bb4ae860184dba6812bc443f56c98bb367
+Author: Mauro <mauro@woppy.co>
+Date:   Thu Jul 26 20:52:55 2018 -0500
+
+    invie-responsive
+
+commit 167f97b970c5eb020e23d606452961cac9cacd78
+Author: Mauro <mauro@woppy.co>
+Date:   Thu Jul 26 20:34:53 2018 -0500
+
+    Nueva versión invie - verde
+
+commit 8a200c084baded79b0c1d7a1cf368cc6d9856b03
+Author: Mauro <mauro@woppy.co>
+Date:   Thu Jul 26 20:20:07 2018 -0500
+
+    borde rojo solido
+
+commit e583abe9c38307ae170282c6383e01c838d222a4
+Author: Mauro <mauro@woppy.co>
+Date:   Sat Jul 21 12:26:00 2018 -0500
+
+    egregamos hero
+
+commit caf9194cc8492bc90eb13b812671034d3a8b8dcd
+Author: Mauro <mauro@woppy.co>
+Date:   Sat Jul 21 12:24:38 2018 -0500
+
+    imagenes
+
+commit 51d0d07fe88b1ea94c90ef565d7449c8a932ceb0
+Author: Mauro <mauro@woppy.co>
+Date:   Sat Jul 21 12:23:56 2018 -0500
+
+    estilos css
+
+commit 18a9887bbc0602a9bfdcf01f464ce81bdb88026d
+Author: Mauro <mauro@woppy.co>
+Date:   Sat Jul 21 12:14:53 2018 -0500
+
+    creacion landing
+
+commit d92f1c08794cadce16e1ce34fb901a7867c419e1
+Author: Mauro <mauro@woppy.co>
+Date:   Fri Jul 20 22:12:01 2018 -0500
+
+    inicializar el landign
